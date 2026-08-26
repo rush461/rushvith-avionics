@@ -1,5 +1,9 @@
 # Task 1: Finding the sea floor
 
+Rushvith Anthagiri
+2026A7PS2003H
+f20262003@hyderabad.bits-pilani.ac.in
+
 ### Overview:
 - To extract the data from the csv file I used the csv library to automatically extract the values from the file and store them in an array.
 - To find and remove anomalies I calculated a local median around each value, and removed it if the value was a certain threshold above/below the median.
