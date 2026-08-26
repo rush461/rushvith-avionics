@@ -59,7 +59,7 @@ smoothed = np.convolve(
     mode="valid"
 )
 
-depths = smoothed
+#depths = smoothed
 
 ########################################
 ### display depth/time graph of data ###
@@ -154,7 +154,7 @@ animation = FuncAnimation(
     fig,
     update,
     frames=len(depths),
-    interval=1000, # set interval to 1 second to simulate sensor readings every second
+    interval=1, # set interval to 1 second to simulate sensor readings every second
     repeat=False
 )
 
