@@ -1,8 +1,8 @@
 # Task 1: Finding the sea floor
 
-Rushvith Anthagiri
-2026A7PS2003H
-f20262003@hyderabad.bits-pilani.ac.in
+- Rushvith Anthagiri
+- 2026A7PS2003H
+- f20262003@hyderabad.bits-pilani.ac.in
 
 ### Overview:
 - To extract the data from the csv file I used the csv library to automatically extract the values from the file and store them in an array.

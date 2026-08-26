@@ -1,8 +1,8 @@
 # Task 2: Keeping watch over Odysseus
 
-Rushvith Anthagiri
-2026A7PS2003H
-f20262003@hyderabad.bits-pilani.ac.in
+- Rushvith Anthagiri
+- 2026A7PS2003H
+- f20262003@hyderabad.bits-pilani.ac.in
 
 ### Overview
 - I am using an ultrasonic distance sensor to detect distance to the nearest object.
@@ -15,4 +15,4 @@ f20262003@hyderabad.bits-pilani.ac.in
 ![wiring.png](wiring.png)
 
 ### Link to the tinkercad project
-![https://www.tinkercad.com/things/8PBY9jKOh1o/editel?returnTo=%2Fdashboard&sharecode=b8mEAh4bR_hIGSnVLgpDRwgaP0lyRVvIsGUkJlg40R8](https://www.tinkercad.com/things/8PBY9jKOh1o/editel?returnTo=%2Fdashboard&sharecode=b8mEAh4bR_hIGSnVLgpDRwgaP0lyRVvIsGUkJlg40R8)
+https://www.tinkercad.com/things/8PBY9jKOh1o/editel?returnTo=%2Fdashboard&sharecode=b8mEAh4bR_hIGSnVLgpDRwgaP0lyRVvIsGUkJlg40R8
